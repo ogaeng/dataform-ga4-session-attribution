@@ -1,0 +1,7 @@
+{
+  "name": "osoma_ga4_dataform",
+  "dependencies": {
+    "@dataform/core": "2.6.7",
+    "dataform-ga4-sessions": "https://github.com/ArtemKorneevGA/dataform-ga4-sessions/archive/refs/tags/v1.0.5.tar.gz"
+  }
+}
